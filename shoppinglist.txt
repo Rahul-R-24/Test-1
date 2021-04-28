@@ -1,5 +1,6 @@
-green 
-purple
-black
-
-
+yellow 
+indigo
+red
+blue
+white
+orange
