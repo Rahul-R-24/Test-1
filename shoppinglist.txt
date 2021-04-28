@@ -1,9 +1,5 @@
-orange
-mango
-banana
-guava
-yellow
-blue
-red
+green 
+purple
+black
 
 
