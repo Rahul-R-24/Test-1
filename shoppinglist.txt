@@ -1,6 +1,3 @@
-yellow 
-indigo
-red
-blue
-white
-orange
+abc
+xyz
+def
