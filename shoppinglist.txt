@@ -1,3 +1,6 @@
 yellow 
 indigo
 red
+blue
+white
+orange
